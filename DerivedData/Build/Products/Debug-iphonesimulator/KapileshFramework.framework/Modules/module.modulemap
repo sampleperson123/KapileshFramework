@@ -1,0 +1,11 @@
+framework module KapileshFramework {
+  umbrella header "KapileshFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module KapileshFramework.Swift {
+    header "KapileshFramework-Swift.h"
+    requires objc
+}

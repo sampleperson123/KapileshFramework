@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0D94BED3-EA26-423B-B442-32592998B80B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0D94BED3-EA26-423B-B442-32592998B80B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KapileshFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KapileshFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze KapileshFramework</string>
+			<key>timeStartedRecording</key>
+			<real>667392750.12740004</real>
+			<key>timeStoppedRecording</key>
+			<real>667392753.50702095</real>
+			<key>title</key>
+			<string>Analyze KapileshFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>0D94BED3-EA26-423B-B442-32592998B80B</string>
+		</dict>
+		<key>47D113AC-89D8-4421-AF73-2D03AE910701</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>47D113AC-89D8-4421-AF73-2D03AE910701.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KapileshFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KapileshFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build KapileshFramework</string>
+			<key>timeStartedRecording</key>
+			<real>667392579.72703302</real>
+			<key>timeStoppedRecording</key>
+			<real>667392580.17959905</real>
+			<key>title</key>
+			<string>Build KapileshFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>47D113AC-89D8-4421-AF73-2D03AE910701</string>
+		</dict>
+		<key>C9C3F948-68DE-4FF9-8031-3511C0EEE0EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C9C3F948-68DE-4FF9-8031-3511C0EEE0EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KapileshFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KapileshFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean KapileshFramework</string>
+			<key>timeStartedRecording</key>
+			<real>667392747.31409502</real>
+			<key>timeStoppedRecording</key>
+			<real>667392747.41678405</real>
+			<key>title</key>
+			<string>Clean KapileshFramework</string>
+			<key>uniqueIdentifier</key>
+			<string>C9C3F948-68DE-4FF9-8031-3511C0EEE0EB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

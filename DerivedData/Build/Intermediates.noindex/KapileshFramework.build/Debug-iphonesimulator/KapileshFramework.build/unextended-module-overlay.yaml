@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/kapileshrajput/Desktop/Framework Example/KapileshFramework/DerivedData/Build/Products/Debug-iphonesimulator/KapileshFramework.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/kapileshrajput/Desktop/Framework Example/KapileshFramework/DerivedData/Build/Intermediates.noindex/KapileshFramework.build/Debug-iphonesimulator/KapileshFramework.build/unextended-module.modulemap",
+    }]
+  }]
+}

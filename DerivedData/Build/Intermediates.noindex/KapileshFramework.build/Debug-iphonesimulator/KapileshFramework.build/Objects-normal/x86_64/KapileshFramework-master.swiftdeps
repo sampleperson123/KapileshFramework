@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "d3c81c9ecdfbc606033ab89e122a5375fa8ab0b2b576c2d62b3f20b53e1e346c"
+build_start_time: [1645699950, 372177124]
+build_end_time: [1645699953, 171851158]
+inputs:
+  "/Users/kapileshrajput/Desktop/Framework Example/KapileshFramework/KapileshFramework/KapileshFramework.swift": [1645699947, 296828746]

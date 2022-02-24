@@ -1,0 +1,93 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "KapileshFramework"
+    },
+    {
+      "kind": "Import",
+      "name": "KapileshFramework",
+      "printedName": "KapileshFramework",
+      "declKind": "Import",
+      "moduleName": "KapileshFramework",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "KapileshFramework"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "KapileshFramework"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "KapileshFramework",
+      "printedName": "KapileshFramework",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "greeting",
+          "printedName": "greeting(name:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:17KapileshFrameworkAAV8greeting4nameySS_tFZ",
+          "mangledName": "$s17KapileshFrameworkAAV8greeting4nameySS_tFZ",
+          "moduleName": "KapileshFramework",
+          "static": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "KapileshFramework",
+              "printedName": "KapileshFramework.KapileshFramework",
+              "usr": "s:17KapileshFrameworkAAV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:17KapileshFrameworkAAVABycfc",
+          "mangledName": "$s17KapileshFrameworkAAVABycfc",
+          "moduleName": "KapileshFramework",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:17KapileshFrameworkAAV",
+      "mangledName": "$s17KapileshFrameworkAAV",
+      "moduleName": "KapileshFramework"
+    }
+  ],
+  "json_format_version": 6
+}

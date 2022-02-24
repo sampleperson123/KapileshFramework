@@ -1,0 +1,10 @@
+framework module KapileshFramework {
+  umbrella header "KapileshFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module KapileshFramework.__Swift {
+    exclude header "KapileshFramework-Swift.h"
+}
